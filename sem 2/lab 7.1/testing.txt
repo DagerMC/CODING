@@ -1,0 +1,164 @@
+#################INPUT##################
+Dozens of people are feared dead after a bomb hit a school in east Ukraine, where government forces are battling Russian troops and separatists.
+
+Luhansk region's governor, Serhiy Haidai, confirmed two deaths, saying 60 people were feared dead under the rubble of the school in Bilohorivka.
+
+About 90 people had been sheltering in the building and 30 were rescued, seven of them wounded, he added.
+
+Mr Haidai said a Russian plane had dropped the bomb on Saturday.
+
+His accusation could not be verified independently and there was no immediate response from Russia.
+
+Luhansk has seen fierce combat as Russian troops and separatist fighters seek to surround government forces, just over two months since the start of the Russian invasion.
+
+Bilohorivka is close to the government-held city of Severodonetsk, where heavy fighting was reported in the suburbs on Saturday. One Ukrainian newspaper, Ukrayinska Pravda, says the village became a "hot spot" during fighting last week.
+
+The blast brought down the building which caught fire and it took firefighters three hours to extinguish the blaze, according to the governor, writing on Telegram.
+
+He said almost the entire village had been sheltering in the basement of the school.
+
+The final death toll would only be known when the rubble had been cleared, the governor said.
+
+Mr Haidai said a house in a neighbouring village, which he named as Shypilovo, had been hit by Russian shelling, and 11 people were trapped in its basement. Rescuers were still trying to reach the scene, he said, as shelling continued.
+
+There are reports of new fighting in eastern Ukraine on Sunday morning. According to separatist officials, government forces shelled Donetsk city and the town of Holmivskyi, Russian state media report.
+
+Since the invasion began on 24 February, the UN has recorded at least 2,345 civilian deaths and 2,919 injured in Ukraine, the High Commissioner for Human Rights said in an update last month. Thousands of combatants are also believed to have been killed or injured on both sides.
+
+More than 12 million people are said to have fled their homes since the conflict began, with 5.7 million leaving for neighbouring countries and another 6.5 million people thought to be displaced inside the war-torn country itself.
+
+Much of Luhansk, which along with Donetsk forms part of the Donbas region, has been under the control of the separatists for the past eight years.
+
+##########GETTING SORTED WORDS##########
+a, about, according, accusation, added, after, 
+almost, along, also, an, and, another, are, as, at, basement, 
+battling, be, became, been, began, believed, bilohorivka, 
+blast, blaze, bomb, both, brought, building, by, caught, city, 
+civilian, cleared, close, combat, combatants, commissioner, 
+confirmed, conflict, continued, control, could, countries, 
+country, dead, death, deaths, displaced, donbas, donetsk, 
+down, dozens, dropped, during, east, eastern, eight, 
+entire, extinguish, feared, february, fierce, fighters, 
+fighting, final, fire, firefighters, fled, for, forces, forms, 
+from, government, governor, had, haidai, has, have, he, 
+heavy, high, his, hit, holmivskyi, homes, hours, house, human, 
+immediate, in, independently, injured, inside, invasion, is, it, 
+its, itself, just, killed, known, last, least, leaving, 
+luhansk, media, million, month, months, more, morning, mr, much, 
+named, neighbouring, new, newspaper, no, not, of, officials, 
+on, one, only, or, over, part, past, people, plane, pravda, 
+reach, recorded, region, report, reported, reports, 
+rescued, rescuers, response, rights, rubble, russia, 
+russian, said, saturday, saying, says, scene, school, seek, 
+seen, separatist, separatists, serhiy, seven, 
+severodonetsk, shelled, shelling, sheltering, shypilovo, sides, 
+since, spot, start, state, still, suburbs, sunday, surround, 
+telegram, than, the, their, them, there, thought, thousands, 
+three, to, toll, took, town, trapped, troops, trying, two, uN, 
+ukraine, ukrainian, ukrayinska, under, update, verified, 
+village, war, was, week, were, when, where, which, with, would, 
+wounded, writing, years, 
+############CHECKING LETTERS############
+              about & at                   
+          according & along                
+         accusation & an                   
+              added & and                  
+             almost & about                
+             almost & at                   
+            another & after                
+           basement & blast                
+           basement & brought              
+             became & be                   
+             became & blaze                
+              began & been                 
+              blaze & be                   
+            brought & blast                
+           building & battling             
+            cleared & could                
+             combat & caught               
+         combatants & countries            
+          confirmed & cleared              
+          confirmed & could                
+           conflict & caught               
+           conflict & combat               
+          continued & cleared              
+          continued & confirmed            
+          continued & could                
+            country & city                 
+          displaced & dead                 
+          displaced & dropped              
+             donbas & deaths               
+             dozens & deaths               
+             dozens & donbas               
+            dropped & dead                 
+              eight & east                 
+             feared & fled                 
+             fierce & fire                 
+           fighters & forces               
+           fighters & forms                
+       firefighters & fighters             
+       firefighters & forces               
+       firefighters & forms                
+             forces & forms                
+               have & he                   
+                his & has                  
+         holmivskyi & haidai               
+              homes & has                  
+              homes & his                  
+              hours & has                  
+              hours & his                  
+              hours & homes                
+              house & have                 
+              house & he                   
+          immediate & inside               
+           invasion & in                   
+                its & is                   
+              least & last                 
+              month & much                 
+               over & or                   
+               past & part                 
+             people & plane                
+           recorded & rescued              
+           reported & recorded             
+           reported & rescued              
+            reports & rights               
+           rescuers & reports              
+           rescuers & rights               
+           response & rubble               
+            russian & region               
+           saturday & serhiy               
+           saturday & sunday               
+             school & still                
+         separatist & spot                 
+         separatist & start                
+        separatists & says                 
+        separatists & sides                
+        separatists & suburbs              
+              seven & seen                 
+      severodonetsk & seek                 
+            shelled & said                 
+           shelling & saying               
+         sheltering & saying               
+         sheltering & shelling             
+              sides & says                 
+              since & scene                
+              start & spot                 
+              state & scene                
+              state & since                
+            suburbs & says                 
+            suburbs & sides                
+             sunday & serhiy               
+           surround & said                 
+           surround & shelled              
+           telegram & them                 
+              there & the                  
+          thousands & troops               
+              three & the                  
+              three & there                
+               town & than                 
+                two & to                   
+            ukraine & update               
+              where & were                 
+              which & with                 
+            wounded & would                
+Amount of pairs - 102
